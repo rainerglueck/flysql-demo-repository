@@ -1,1 +1,1 @@
-select * from dual
+select 'X', '${M_K_T!}' from dual
